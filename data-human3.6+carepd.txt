@@ -1,0 +1,19 @@
+Human3.6M 和 CARE-PD 数据集下载说明
+
+一、Human3.6M
+官方链接：http://vision.imar.ro/human3.6m/description.php
+说明：需注册账号并同意研究许可证后下载。
+预处理工具：https://github.com/anibali/h36m-fetch
+其他资源：https://github.com/MLSLab/human36m
+
+二、CARE-PD
+官方页面：https://neurips2025.care-pd.ca/
+使用条款：https://neurips2025.care-pd.ca/terms-of-use
+GitHub：https://github.com/TaatiTeam/CARE-PD
+Hugging Face：https://huggingface.co/datasets/vida-adl/CARE-PD
+说明：非商业研究用途，使用前请阅读官方条款。
+
+三、GitHub 分享说明
+GitHub 单文件限制 100MB，不建议直接上传原始数据。
+建议仓库中只放本说明、下载脚本和预处理代码。
+原始数据请从官方链接获取。
